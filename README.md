@@ -38,3 +38,9 @@ Here are some ideas to get you started:
 
 ## Tech Stack
 Swift • Xcode • Git • GitHub • UIKit • SwiftUI
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Alloy-Craft&show_icons=true&theme=tokyonight" /> </p>
+
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Alloy-Craft&theme=tokyonight" /> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alloy-Craft&layout=compact&theme=tokyonight" /> </p>
