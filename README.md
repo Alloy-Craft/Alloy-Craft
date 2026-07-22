@@ -35,3 +35,6 @@ Here are some ideas to get you started:
 - Build 20 iOS Apps
 - Land my first iOS Developer job
 - Join to Apple Academy (soon)
+
+## Tech Stack
+Swift • Xcode • Git • GitHub • UIKit • SwiftUI
