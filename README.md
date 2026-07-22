@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Ekalma
+
+### iOS Developer in Progress 📱
+
+## Currently Learning
+- Swift
+- UIKit
+- SwiftUI
+- MVVM
+- Networking
+- Core Data
+
+## Projects
+- Todo App
+- Expense Tracker
+- Notes App
+
+## Goals 2026
+- Build 20 iOS Apps
+- Land my first iOS Developer job
+- Join to Apple Academy (soon)
