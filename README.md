@@ -20,14 +20,14 @@ I'm currently building my skills to become a professional iOS Developer by learn
 
 ## 🎯 Road to iOS Developer
 
-- 📚 Master Swift Fundamentals
-- 📱 Learn UIKit & SwiftUI
-- 🏗 Build 20+ Real-World iOS Projects
-- 🧩 Understand MVVM & Clean Architecture
-- 🌐 Integrate REST APIs
-- 🗄 Learn Core Data & SwiftData
-- 🚀 Publish Apps on the App Store
-- 💼 Land My First iOS Developer Job
+-  Master Swift Fundamentals
+-  Learn UIKit & SwiftUI
+-  Build 20+ Real-World iOS Projects
+-  Understand MVVM & Clean Architecture
+-  Integrate REST APIs
+-  Learn Core Data & SwiftData
+-  Publish Apps on the App Store
+-  Land My First iOS Developer Job
 
 ---
 
